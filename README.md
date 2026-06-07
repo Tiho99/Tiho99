@@ -26,8 +26,6 @@
 - Penetration Testing
 - Capture The Flag (CTF)
 - Network Security
-- Malware Analysis
-- Reverse Engineering
 - Artificial Intelligence
 - Python Development
 - Linux Systems
