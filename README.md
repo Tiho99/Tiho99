@@ -8,7 +8,7 @@
 
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## 📌 About Me 
 * 🔭 Currently exploring Cybersecurity, AI, and Ethical Hacking.
 * 🎓 Computer Science Engineering Student (Artificial Intelligence).
 * 🛡️ Active CTF player and security enthusiast.
